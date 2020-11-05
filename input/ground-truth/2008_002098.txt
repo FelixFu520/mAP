@@ -1,0 +1,5 @@
+person 115 60 289 448
+person 104 112 134 194
+person 154 127 180 158
+diningtable 74 164 132 212
+pottedplant 33 160 52 186

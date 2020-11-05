@@ -1,0 +1,5 @@
+bottle 154 191 256 375
+bottle 204 194 244 339
+person 219 56 500 284
+person 27 11 199 278
+diningtable 1 275 500 375

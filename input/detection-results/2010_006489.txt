@@ -1,0 +1,10 @@
+person 0.9945 27 82 216 488
+pottedplant 0.3444 297 0 366 64
+pottedplant 0.1431 50 48 94 150
+pottedplant 0.1418 5 66 47 145
+pottedplant 0.0907 67 0 134 63
+pottedplant 0.0681 186 2 250 68
+bird 0.0648 50 47 97 145
+pottedplant 0.0583 282 5 364 122
+chair 0.0559 4 133 70 223
+pottedplant 0.0553 95 3 126 66

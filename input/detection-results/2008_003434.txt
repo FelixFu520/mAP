@@ -1,0 +1,7 @@
+tvmonitor 0.9998 187 47 428 222
+pottedplant 0.9819 19 129 101 289
+pottedplant 0.2527 63 256 110 316
+pottedplant 0.2220 29 178 92 271
+pottedplant 0.1818 116 196 154 291
+pottedplant 0.1688 99 154 147 317
+pottedplant 0.1058 30 125 103 204

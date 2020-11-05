@@ -1,0 +1,4 @@
+bicycle 352 8 463 104
+chair 18 130 135 299
+bicycle 1 32 182 144
+bicycle 1 9 112 123

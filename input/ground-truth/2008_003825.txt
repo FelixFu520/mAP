@@ -1,0 +1,7 @@
+tvmonitor 1 345 269 417
+person 23 60 184 314
+person 172 297 241 351
+person 272 12 404 416
+person 350 24 422 414
+person 371 1 500 416
+person 81 360 148 417

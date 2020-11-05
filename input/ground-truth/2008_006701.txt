@@ -1,0 +1,4 @@
+bottle 50 179 158 500
+bottle 185 172 312 500
+bottle 152 176 259 500
+pottedplant 279 151 321 228

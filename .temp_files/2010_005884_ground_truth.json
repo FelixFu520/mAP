@@ -1,0 +1,1 @@
+[{"bbox": "296 179 391 253", "used": false, "class_name": "chair"}, {"bbox": "322 30 500 282", "used": false, "class_name": "person"}, {"bbox": "27 22 233 257", "used": false, "class_name": "person"}, {"bbox": "14 234 500 333", "used": false, "class_name": "diningtable"}, {"bbox": "414 1 474 29", "used": false, "class_name": "tvmonitor"}]

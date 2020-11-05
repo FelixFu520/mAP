@@ -1,0 +1,4 @@
+pottedplant 469 82 500 265
+tvmonitor 318 100 429 203
+pottedplant 1 1 197 129
+sofa 1 129 198 313

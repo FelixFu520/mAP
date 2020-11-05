@@ -1,0 +1,1 @@
+[{"bbox": "1 187 32 218", "used": false, "class_name": "car"}, {"bbox": "125 10 500 303", "used": false, "class_name": "train"}, {"bbox": "161 171 172 201", "used": false, "class_name": "person"}, {"bbox": "26 165 90 362", "used": false, "class_name": "person"}, {"bbox": "29 172 48 200", "used": false, "class_name": "person"}]

@@ -1,0 +1,4 @@
+tvmonitor 21 168 118 256
+tvmonitor 231 220 301 281
+tvmonitor 133 218 197 276
+chair 121 258 226 375

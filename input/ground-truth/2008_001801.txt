@@ -1,0 +1,6 @@
+aeroplane 1 119 389 234
+aeroplane 317 145 500 206
+person 472 198 489 241
+person 481 198 495 235
+person 438 192 447 217
+person 448 194 456 217

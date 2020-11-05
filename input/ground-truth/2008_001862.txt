@@ -1,0 +1,5 @@
+pottedplant 3 125 100 308
+dog 138 6 281 210
+chair 292 28 374 167
+person 325 1 375 100
+bottle 45 35 60 65

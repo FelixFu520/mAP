@@ -1,0 +1,5 @@
+chair 296 179 391 253
+person 322 30 500 282
+person 27 22 233 257
+diningtable 14 234 500 333
+tvmonitor 414 1 474 29
