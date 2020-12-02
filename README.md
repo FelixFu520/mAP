@@ -18,6 +18,8 @@ ssd的h5权重文件
 大家要注意我例子中的VOC虽然写的是2007，但是实际上是2012的……  
 链接: https://pan.baidu.com/s/1jLW5k65lP8hZJhguH6ELQQ 提取码: 4r3g  
 
+> [参考](mAP.md)
+>
 > ![image-20201105092339932](imgs/image-20201105092339932.png)
 
 ## 使用方式
